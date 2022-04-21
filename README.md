@@ -22,5 +22,6 @@ APROXIMACIÓN AL PROBLEMA:
 LIBRERÍAS USADAS:
 Fundamentalmente se ha usado la libraría PANDAS para la manipulación y análisis de los datos. En particular se ha usado para la manipulación y filtrado de los datos contenidos en los DataFrames.
 
+A mayores tenemos SYS y OPERATOR. La primera para la lectura de los argumentos de entrada en la ejecución y la segunda para la ordenación descendente según número de viajes del vector que contiene (id_zona, num_viajes).
 
 
