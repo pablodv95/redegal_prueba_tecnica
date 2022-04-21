@@ -1,0 +1,1 @@
+# redegal_prueba_tecnica
