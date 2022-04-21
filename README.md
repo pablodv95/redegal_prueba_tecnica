@@ -25,3 +25,5 @@ Fundamentalmente se ha usado la libraría PANDAS para la manipulación y anális
 A mayores tenemos SYS y OPERATOR. La primera para la lectura de los argumentos de entrada en la ejecución y la segunda para la ordenación descendente según número de viajes del vector que contiene (id_zona, num_viajes).
 
 
+
+EL FICHERO DE RESULTADOS HA SIDO OBTENIDO A PARTIR DE LOS DATOS DE ENTRADA DE ENERO DE 2021 (fichero "yellow_tripdata_2021-01.csv")
