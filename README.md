@@ -5,7 +5,7 @@
 
 EJECUCIÓN:
 1- Ejecutar el comando "pip3 install -r requirements.txt" para instalar las librerías necesarias para la ejecución del script python.
-2- Ejecutar el script python con el comando "python3 main.py [ruta_fichero_datos_entrada.csv] [ruta_fichero_zonas_taxi.csv] [ruta_fichero_resultados.csv]"
+2- Ejecutar el script python con el comando "python3 main.py [ruta_fichero_datos_entrada.csv] [ruta_fichero_zonas_taxi.csv] [ruta_fichero_resultados.csv]". Ejemplo: python3 main.py yellow_tripdata_2021-01.csv taxi_zones.csv yellow_tripdata_2021-01_result.csv
 
 FUNCIONAMIENTO:
 El script que se ha desarrollado lee la información de los 2 ficheros de entrada (fichero con los datos de los viajes y fichero con los ids de las zonas). Posteriormente se procesan los datos deentrada, se imprime el resultado por terminal y adicionalmente se guardan en un fichero csv.
